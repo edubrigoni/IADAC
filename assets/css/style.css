@@ -1,0 +1,23 @@
+.container{
+	display: flex;
+	justify-content: space-between;
+	width: 990px;
+}
+.logo{
+	display: flex;
+	align-items: center;
+}
+.menu{
+	display: flex;
+	background-color: #616C76; 
+	align-items: center;
+	color: #E9ECF1;
+}
+#banner {
+	display: flex;
+	justify-content: center;
+	background-position: center;
+	background-size: cover;
+	background-color: #E9ECF1;
+	height: 670px; 
+}

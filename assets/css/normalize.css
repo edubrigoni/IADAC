@@ -1,0 +1,32 @@
+body{
+	background-color: #616C76;
+	margin:10px;
+	padding: 0px;
+}
+header{
+	display: flex;
+	justify-content: center;
+	height: 100px;
+}
+nav ul, nav li{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+nav ul{
+	display: flex;
+}
+nav a{
+	display: block;
+	padding: 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #fff;
+	font-family: sans-serif;
+}
+
+nav .active a,
+nav a:hover{
+	background-color: #E9ECF1;
+	color: #616C76;
+}

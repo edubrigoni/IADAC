@@ -1,0 +1,1 @@
+Sistema IADAC Igreja Assembléia de DEUS de Águas Claras.
